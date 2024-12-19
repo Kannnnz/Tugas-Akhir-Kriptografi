@@ -29,7 +29,7 @@ streamlit run app.py
 ---
 
 ## 🔗 Link Dashboard Streamlit
-Akses aplikasi dashboard melalui tautan berikut:
+Berikut link dashboard yang sudah kelompok kami deploy ke streamlit:
 [https://tugas-akhir-kriptografi-bi5zud2xj7wfhycphudosh.streamlit.app/](https://tugas-akhir-kriptografi-bi5zud2xj7wfhycphudosh.streamlit.app/)
 
 ---
