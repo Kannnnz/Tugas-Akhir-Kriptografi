@@ -16,7 +16,9 @@
 4. Arahkan CMD ke folder hasil ekstraksi ZIP. Contoh:  
    ```bash
    cd C:\Users\LENOVO\Downloads\tugas-akhir-kriptografi-main
-
+5. Jalankan perintah berikut untuk menginstal dependencies: 
+   ```bash
+   pip install -r requirements.txt
 ---
 
 ## 📺 Jalankan Streamlit
