@@ -14,7 +14,7 @@ Berikut link GUI Streamlit yang sudah kelompok kami deploy:
 
 ---
 
-## ⚙️ Setup Environment & Dependencies (Untuk Run Local) 
+## ⚙️ Setup Environment & Dependencies (Jika Run di Local) 
 
 1. **Download ZIP dari repository GitHub ini**.  
 2. Ekstrak file ZIP ke lokasi yang diinginkan.  
@@ -27,7 +27,7 @@ Berikut link GUI Streamlit yang sudah kelompok kami deploy:
    pip install -r requirements.txt
 ---
 
-## 📺 Jalankan Streamlit (Untuk Run Local)
+## 📺 Jalankan Streamlit (Jika Run di Local)
 ```bash
 streamlit run app.py
 ```
