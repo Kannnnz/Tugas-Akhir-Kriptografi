@@ -8,7 +8,13 @@
 
 ---
 
-## ⚙️ Setup Environment & Dependencies  
+## 🔗 Link Streamlit
+Berikut link GUI Streamlit yang sudah kelompok kami deploy:
+[https://tugas-akhir-kriptografi-bi5zud2xj7wfhycphudosh.streamlit.app/](https://tugas-akhir-kriptografi-bi5zud2xj7wfhycphudosh.streamlit.app/)
+
+---
+
+## ⚙️ Setup Environment & Dependencies (Untuk Run Local) 
 
 1. **Download ZIP dari repository GitHub ini**.  
 2. Ekstrak file ZIP ke lokasi yang diinginkan.  
@@ -21,16 +27,11 @@
    pip install -r requirements.txt
 ---
 
-## 📺 Jalankan Streamlit
+## 📺 Jalankan Streamlit (Untuk Run Local)
 ```bash
 streamlit run app.py
 ```
 
 ---
 
-## 🔗 Link Dashboard Streamlit
-Berikut link dashboard yang sudah kelompok kami deploy ke streamlit:
-[https://tugas-akhir-kriptografi-bi5zud2xj7wfhycphudosh.streamlit.app/](https://tugas-akhir-kriptografi-bi5zud2xj7wfhycphudosh.streamlit.app/)
-
----
 
