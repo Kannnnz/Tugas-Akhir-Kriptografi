@@ -34,4 +34,24 @@ streamlit run app.py
 
 ---
 
+## Penjelasan GUI Streamlit
+
+1. **Unggah File:**
+   - User dapat mengunggah file S-box dalam format Excel pada bagian yang telah disediakan.
+   - Setelah unggahan berhasil, file akan ditampilkan dalam bentuk dataframe.
+
+2. **Pilih Jenis Pengujian:**
+   - Pilih salah satu atau beberapa jenis pengujian yang diinginkan.
+
+3. **Jalankan Pengujian:**
+   - Tekan tombol “Jalankan Pengujian” untuk memulai proses perhitungan.
+
+4. **Lihat Hasil:**
+   - Setelah proses selesai, hasil pengujian akan ditampilkan sesuai dengan jenis pengujian yang dipilih.
+
+5. **Unduh Hasil:**
+   - Hasil pengujian dapat diunduh dalam format Excel (.xlsx) dengan nama file “hasil_kriptografi”.
+   - Isi file unduhan berupa data tabel dengan setiap sheet mencerminkan hasil dari masing-masing pengujian.
+
+
 
