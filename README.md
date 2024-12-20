@@ -1,4 +1,4 @@
-# 🔒 Tugas Akhir Kriptografi
+# 🔒 Tugas Akhir Kriptografi Non-Reguler Kelompok 5 Rombel 4
 
 ## ✨ Anggota Kelompok
 - **Dwi Tatang Warianta** (4611422144)
